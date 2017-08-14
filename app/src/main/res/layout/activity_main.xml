@@ -8,6 +8,7 @@
     tools:context="com.dananarief.android.cobalihat.MainActivity">
 
     <TextView
+        android:id="@+id/textScreen"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
