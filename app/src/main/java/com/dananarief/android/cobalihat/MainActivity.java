@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         text = (TextView) findViewById(R.id.title_main);
-        text.setText("App2");
+        text.setText("App1");
 
-
+        text.setText("App1");
     }
 }
