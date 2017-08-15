@@ -12,7 +12,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        text = (TextView) findViewById(R.id.textScreen);
+        text = (TextView) findViewById(R.id.title_main);
         text.setText("Oi");
+
+
     }
 }
